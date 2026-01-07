@@ -1,7 +1,7 @@
 # MULTI-AXIS-MECHATRONIC-MULTI-AXIS-MECHATRONIC-MULTI-AXIS-MECHATRONIC-OBJECT-HANDLING-SYSTEM
 A Wi-Fi–controlled mobile robot with a multi-axis robotic arm enables real-time remote control of movement and pick-and-place tasks using an ESP32 and a mobile app. It offers a low-cost, flexible solution for education, training, and small-scale automation.
 
-![Uploading Robotic arm.jpg…]()
+"C:\Users\ADMIN\Desktop\Major Project\Robotic arm.jpg"
 
 The project presents a comprehensive overview of a multi-axis mechatronic object handling system developed as part of an engineering program in Electronics and Communication. It highlights the motivation, design, implementation, and outcomes of a Wi-Fi–controlled mobile robot integrated with a robotic arm.
 
